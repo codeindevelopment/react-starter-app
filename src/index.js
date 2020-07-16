@@ -3,14 +3,17 @@ import ReactDOM from "react-dom";
 
 import "./App/scss/style.scss"; // Global Style
 
+import { YamataI18nProvider } from "./i18n";
+
 import App from "./App/App";
 
 import * as serviceWorker from "./serviceWorker";
+const { PUBLIC_URL } = process.env;
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <YamataI18nProvider>
+    <App basename={PUBLIC_URL} />
+  </YamataI18nProvider>,
   document.getElementById("root")
 );
 
