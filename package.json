@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "rtl": "webpack"
   },
   "author": {
     "name": "Yamata Matsoyama @codeindev",
@@ -145,6 +146,9 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.14.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-messages": "^2.0.4",
+    "webpack-rtl-plugin": "^2.0.0"
   }
 }
