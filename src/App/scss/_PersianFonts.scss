@@ -1,0 +1,178 @@
+/* ------------------------------ Dana WebFont ------------------------------ */
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 900;
+  src: url("/fonts/persian/dana/dana-black.woff") format("woff");
+}
+
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 600;
+  src: url("/fonts/persian/dana/dana-demibold.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/persian/dana/dana-extrabold.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 200;
+  src: url("/fonts/persian/dana/dana-extralight.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/persian/dana/dana-light.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/persian/dana/dana-medium.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normalmal;
+  font-weight: nor;
+  src: url("/fonts/persian/dana/dana-regular.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/fonts/persian/dana/dana-thin.woff") format("woff");
+}
+@font-face {
+  font-family: dana;
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/persian/dana/dana-ultrabold.woff") format("woff");
+}
+
+/* -------------------------------- IranSans -------------------------------- */
+
+@font-face {
+  font-family: iransasn-web;
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/persian/iransans/IRANSansWeb_Bold.eot?");
+  src: url("/fonts/persian/iransans/IRANSansWeb_Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/persian/iransans/IRANSansWeb_Bold.woff") format("woff"),
+    url("/fonts/persian/iransans/IRANSansWeb_Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: iransasn-web;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/persian/iransans/IRANSansWeb_Medium.eot?");
+  src: url("/fonts/persian/iransans/IRANSansWeb_Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/persian/iransans/IRANSansWeb_Medium.woff") format("woff"),
+    url("/fonts/persian/iransans/IRANSansWeb_Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: iransasn-web;
+  font-style: normal;
+  font-weight: 200;
+  src: url("/fonts/persian/iransans/IRANSansWeb_UltraLight.eot?");
+  src: url("/fonts/persian/iransans/IRANSansWeb_UltraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/persian/iransans/IRANSansWeb_UltraLight.woff") format("woff"),
+    url("/fonts/persian/iransans/IRANSansWeb_UltraLight.ttf")
+      format("truetype");
+}
+@font-face {
+  font-family: iransasn-web;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/fonts/persian/iransans/IRANSansWeb_UltraLight.eot?");
+  src: url("/fonts/persian/iransans/IRANSansWeb_UltraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/persian/iransans/IRANSansWeb_UltraLight.woff") format("woff"),
+    url("/fonts/persian/iransans/IRANSansWeb_UltraLight.ttf")
+      format("truetype");
+}
+@font-face {
+  font-family: iransasn-web;
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/persian/iransans/IRANSansWeb.eot?");
+  src: url("/fonts/persian/iransans/IRANSansWeb.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/persian/iransans/IRANSansWeb.woff") format("woff"),
+    url("/fonts/persian/iransans/IRANSansWeb.ttf") format("truetype");
+}
+
+/* ------------------------------ IranWebYekan ------------------------------ */
+
+@font-face {
+  font-family: webYekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/persian/iranwebyekan/iranyekanweblight.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("/fonts/persian/iranwebyekan/iranyekanweblight.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: webYekan;
+  font-style: normal;
+  font-weight: normal;
+  src: url("/fonts/persian/iranwebyekan/iranyekanwebregular.woff")
+      format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("/fonts/persian/iranwebyekan/iranyekanwebregular.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: webYekan;
+  font-style: normal;
+  font-weight: bold;
+  src: url("/fonts/persian/iranwebyekan/iranyekanwebbold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+      url("/fonts/persian/iranwebyekan/iranyekanwebbold.ttf")
+      format("truetype");
+}
+
+/* -------------------------------- YekanBakh ------------------------------- */
+
+@font-face {
+  font-family: "yekanbakh";
+  src: url("/fonts/persian/yekanbakh/YekanBakhRegular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "yekanbakh";
+  font-weight: bold;
+  src: url("/fonts/persian/yekanbakh/YekanBakhBold.otf") format("opentype");
+}
+
+/* -------------------------------- IranSharp ------------------------------- */
+
+@font-face {
+  font-family: "iransharp";
+  font-style: normal;
+  font-weight: bold;
+  src: url("/fonts/persian/iransharp/iransharp_bold_web.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "iransharp";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/persian/iransharp/iransharp_regular_web.woff2")
+    format("woff2");
+}

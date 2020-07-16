@@ -1,0 +1,134 @@
+/* -------------------------------- spacemono ------------------------------- */
+
+@font-face {
+    font-family: spacemono-regular;
+    src: url("/fonts/english/spacemono/spacemono-regular.woff2") format("woff2"),
+      url("/fonts/english/spacemono/spacemono-regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: spacemono-bold;
+    src: url("/fonts/english/spacemono/spacemono-bold.woff2") format("woff2"),
+      url("/fonts/english/spacemono/spacemono-bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+/* -------------------------------- monument -------------------------------- */
+
+  @font-face {
+    font-family: monument-regular;
+    src: url("/fonts/english/monument-regular/monument-regular.woff2") format("woff2"),
+      url("/fonts/english/monument-regular/monument-regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+/* ------------------------------ marvinvisions ----------------------------- */
+
+  @font-face {
+    font-family: marvinvisions-bold;
+    src: url("/fonts/english/marvinvisions/marvinvisions-bold.woff2") format("woff2"),
+      url("/fonts/english/marvinvisions/marvinvisions-bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+/* ------------------------------- SF-UI Apple Font ------------------------------- */
+
+  @font-face {
+    font-family: sf-ui;
+    font-style: normal;
+    font-weight: 100;
+    src: url('/fonts/english/sf-ui/sf-ui-display-ultralight.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/english/sf-ui/sf-ui-display-ultralight.otf') format("opentype");
+}
+
+@font-face {
+    font-family: sf-ui;
+    font-style: normal;
+    font-weight: 200;
+    src: url('/fonts/english/sf-ui/sf-ui-display-thin.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/english/sf-ui/sf-ui-display-thin.otf') format("opentype");
+}
+
+@font-face {
+    font-family: sf-ui;
+    font-style: normal;
+    font-weight: 300;
+    src: url('/fonts/english/sf-ui/sf-ui-display-light.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/english/sf-ui/sf-ui-display-light.otf') format("opentype");
+}
+
+@font-face {
+    font-family: sf-ui;
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/english/sf-ui/sf-ui-display-medium.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/english/sf-ui/sf-ui-display-medium.otf') format("opentype");
+}
+
+@font-face {
+    font-family: sf-ui;
+    font-style: normal;
+    font-weight: 600;
+    src: url('/fonts/english/sf-ui/sf-ui-display-heavy.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/english/sf-ui/sf-ui-display-heavy.otf') format("opentype");
+}
+
+@font-face {
+    font-family: sf-ui;
+    font-style: normal;
+    font-weight: bold;
+    src: url('/fonts/english/sf-ui/sf-ui-display-bold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/english/sf-ui/sf-ui-display-bold.otf') format("opentype");
+}
+
+/* --------------------------------- anodina -------------------------------- */
+
+@font-face {
+  font-family: "anodinaextra_bold";
+  src: url("/fonts/english/anodina/anodina-extrabold-webfont.woff2") format("woff2"),
+      url("/fonts/english/anodina/anodina-extrabold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "anodinaextra_light";
+  src: url("/fonts/english/anodina/anodina-extralight-webfont.woff2") format("woff2"),
+      url("/fonts/english/anodina/anodina-extralight-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "anodinabold";
+  src: url("/fonts/english/anodina/anodina-bold-webfont.woff2") format("woff2"),
+      url("/fonts/english/anodina/anodina-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ---------------------------------- break --------------------------------- */
+
+@font-face {
+  font-family: "breakbold";
+  src: url("/fonts/english/break/break_bold-webfont.woff2") format("woff2"),
+      url("/fonts/english/break/break_bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "breakextralight";
+  src: url("/fonts/english/break/break_extralight-webfont.woff2") format("woff2"),
+      url("/fonts/english/break/break_extralight-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
