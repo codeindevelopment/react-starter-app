@@ -1,6 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+
+import "./App/scss/_EnglishFonts.scss"; // Import English Fonts
+import "./App/scss/_PersianFonts.scss"; // Import Persian Fonts
+
 import "./App/scss/style.scss"; // Global Style
 
 import { YamataI18nProvider } from "./i18n";
